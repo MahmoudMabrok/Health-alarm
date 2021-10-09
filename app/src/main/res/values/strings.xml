@@ -11,5 +11,6 @@
     <string name="Advice2"> Take care of your health </string>
     <string name="Advice3"> Don\'t forget to drink water </string>
     <string name="empty" />
+    <string name="logo_for_splash">Splash</string>
 
 </resources>

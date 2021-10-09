@@ -1,4 +1,4 @@
-package com.example.healthalarm.DataSets
+package com.example.healthalarm.dataSets
 
 import java.util.*
 

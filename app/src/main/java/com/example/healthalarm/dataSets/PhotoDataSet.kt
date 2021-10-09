@@ -1,7 +1,7 @@
-package com.example.healthalarm.DataSets
+package com.example.healthalarm.dataSets
 
-import com.example.healthalarm.Models.ViewpagerModel
 import com.example.healthalarm.R
+import com.example.healthalarm.models.ViewpagerModel
 import java.util.*
 
 object PhotoDataSet {

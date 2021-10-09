@@ -1,4 +1,4 @@
-package com.example.healthalarm.ViewPagerFuncations
+package com.example.healthalarm.viewPagerFuncations
 
 import android.os.Handler
 import android.view.View

@@ -1,4 +1,4 @@
-package com.example.healthalarm.WorkManager
+package com.example.healthalarm.workManager
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -8,8 +8,8 @@ import android.os.Build
 import androidx.core.app.NotificationCompat
 import androidx.work.Worker
 import androidx.work.WorkerParameters
-import com.example.healthalarm.DataSets.NotificationDataSet.getrandomAvice
 import com.example.healthalarm.R
+import com.example.healthalarm.dataSets.NotificationDataSet.getrandomAvice
 
 class Workmanager(context: Context, workerParams: WorkerParameters) :
     Worker(context, workerParams) {
